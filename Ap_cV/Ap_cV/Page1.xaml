@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Ap_cV.Page1">
+    <ScrollView >
+        <StackLayout>
+            <Entry Text="BIENVENIDO" VerticalOptions="Start" HorizontalOptions="Start" FontSize="Title" FontAttributes="Bold"></Entry>
+
+
+
+            <Label Text="NOMBRE: " Padding="0,20,0,0"></Label>
+            <Entry Placeholder="Ingresa tu nombre" Keyboard="Text" x:Name="Fname"></Entry>
+
+            <Label Text="Apellido: " Padding="0,10,0,0"></Label>
+            <Entry Placeholder="Ingresa tu Apellido" Keyboard="Text" x:Name="Lname"></Entry>
+
+            <Label Text="Telefono: " Padding="0,10,0,0"></Label>
+            <Entry Keyboard="Telephone" x:Name="phone"></Entry>
+
+            <Label Text="Pais: " Padding="0,10,0,0"></Label>
+            <Entry Keyboard="Text" Placeholder="Ingresa tu Pais" x:Name="country"></Entry>
+            
+            <Button Text="Enviar" Background="Blue" TextColor="White" Clicked="Button_Clicked" ></Button>
+        </StackLayout>
+
+    </ScrollView>
+</ContentPage>

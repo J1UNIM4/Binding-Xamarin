@@ -1,0 +1,17 @@
+C:\Users\Jossein\Documents\Ciencias de la computacion\3 semestre\Desarrollo Basado en Plataformas\XAMARIN FORMS\Ap_cV\Ap_cV\Ap_cV\bin\Debug\netstandard2.0\Ap_cV.deps.json
+C:\Users\Jossein\Documents\Ciencias de la computacion\3 semestre\Desarrollo Basado en Plataformas\XAMARIN FORMS\Ap_cV\Ap_cV\Ap_cV\bin\Debug\netstandard2.0\Ap_cV.dll
+C:\Users\Jossein\Documents\Ciencias de la computacion\3 semestre\Desarrollo Basado en Plataformas\XAMARIN FORMS\Ap_cV\Ap_cV\Ap_cV\bin\Debug\netstandard2.0\ref\Ap_cV.dll
+C:\Users\Jossein\Documents\Ciencias de la computacion\3 semestre\Desarrollo Basado en Plataformas\XAMARIN FORMS\Ap_cV\Ap_cV\Ap_cV\bin\Debug\netstandard2.0\Ap_cV.pdb
+C:\Users\Jossein\Documents\Ciencias de la computacion\3 semestre\Desarrollo Basado en Plataformas\XAMARIN FORMS\Ap_cV\Ap_cV\Ap_cV\obj\Debug\netstandard2.0\Ap_cV.csproj.AssemblyReference.cache
+C:\Users\Jossein\Documents\Ciencias de la computacion\3 semestre\Desarrollo Basado en Plataformas\XAMARIN FORMS\Ap_cV\Ap_cV\Ap_cV\obj\Debug\netstandard2.0\Ap_cV.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jossein\Documents\Ciencias de la computacion\3 semestre\Desarrollo Basado en Plataformas\XAMARIN FORMS\Ap_cV\Ap_cV\Ap_cV\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Jossein\Documents\Ciencias de la computacion\3 semestre\Desarrollo Basado en Plataformas\XAMARIN FORMS\Ap_cV\Ap_cV\Ap_cV\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Jossein\Documents\Ciencias de la computacion\3 semestre\Desarrollo Basado en Plataformas\XAMARIN FORMS\Ap_cV\Ap_cV\Ap_cV\obj\Debug\netstandard2.0\Ap_cV.AssemblyInfoInputs.cache
+C:\Users\Jossein\Documents\Ciencias de la computacion\3 semestre\Desarrollo Basado en Plataformas\XAMARIN FORMS\Ap_cV\Ap_cV\Ap_cV\obj\Debug\netstandard2.0\Ap_cV.AssemblyInfo.cs
+C:\Users\Jossein\Documents\Ciencias de la computacion\3 semestre\Desarrollo Basado en Plataformas\XAMARIN FORMS\Ap_cV\Ap_cV\Ap_cV\obj\Debug\netstandard2.0\Ap_cV.csproj.CoreCompileInputs.cache
+C:\Users\Jossein\Documents\Ciencias de la computacion\3 semestre\Desarrollo Basado en Plataformas\XAMARIN FORMS\Ap_cV\Ap_cV\Ap_cV\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Jossein\Documents\Ciencias de la computacion\3 semestre\Desarrollo Basado en Plataformas\XAMARIN FORMS\Ap_cV\Ap_cV\Ap_cV\obj\Debug\netstandard2.0\Ap_cV.dll
+C:\Users\Jossein\Documents\Ciencias de la computacion\3 semestre\Desarrollo Basado en Plataformas\XAMARIN FORMS\Ap_cV\Ap_cV\Ap_cV\obj\Debug\netstandard2.0\refint\Ap_cV.dll
+C:\Users\Jossein\Documents\Ciencias de la computacion\3 semestre\Desarrollo Basado en Plataformas\XAMARIN FORMS\Ap_cV\Ap_cV\Ap_cV\obj\Debug\netstandard2.0\Ap_cV.pdb
+C:\Users\Jossein\Documents\Ciencias de la computacion\3 semestre\Desarrollo Basado en Plataformas\XAMARIN FORMS\Ap_cV\Ap_cV\Ap_cV\obj\Debug\netstandard2.0\Page1.xaml.g.cs
+C:\Users\Jossein\Documents\Ciencias de la computacion\3 semestre\Desarrollo Basado en Plataformas\XAMARIN FORMS\Ap_cV\Ap_cV\Ap_cV\obj\Debug\netstandard2.0\Page2.xaml.g.cs

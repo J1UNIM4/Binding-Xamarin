@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Ap_cV.Page2">
+    <ContentPage.Content>
+        <StackLayout BackgroundColor="LightGray">
+            <Label Text="Nombre: " 
+                HorizontalOptions="CenterAndExpand" />
+
+            <Entry Placeholder="{Binding FnameLname}"></Entry>
+            <Label Text="Phone Number: " 
+                HorizontalOptions="CenterAndExpand" />
+
+            <Entry Placeholder="{Binding phone}"></Entry>
+
+        </StackLayout>
+        <StackLayout BackgroundColor="LightGray">
+            <Label Text="Country: " 
+            HorizontalOptions="CenterAndExpand" />
+
+            <Entry Placeholder="{Binding country}"></Entry>
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
